@@ -6,10 +6,6 @@ A full-stack e-commerce product management application built with the MERN stack
 
 Check out the live application: [Product Store](https://productstore-uqd6.onrender.com/)
 
-## 📸 Screenshots
-
-![Product Store Homepage](https://asset.cloudinary.com/dsrglevcv/ecbd0a519ddd5b4a52bc39f51248eb72/)
-
 ## ✨ Features
 
 - **Full CRUD Operations**: Create, Read, Update, and Delete products
